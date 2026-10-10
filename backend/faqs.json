@@ -1,0 +1,197 @@
+[
+  {
+    "id": "orders-track",
+    "category": "orders",
+    "question": "How can I track my order?",
+    "variations": [
+      "Where is my order?",
+      "track my package",
+      "order status",
+      "when will my order arrive",
+      "tracking number for my shipment"
+    ],
+    "answer": "You can track your order from My Account > Orders. Click the order and select 'Track shipment'. A tracking link is also emailed to you as soon as the order ships."
+  },
+  {
+    "id": "orders-cancel",
+    "category": "orders",
+    "question": "How do I cancel my order?",
+    "variations": [
+      "cancel an order",
+      "I want to cancel my purchase",
+      "stop my order from shipping",
+      "undo my order"
+    ],
+    "answer": "Orders can be cancelled free of charge until they are dispatched. Go to My Account > Orders and choose 'Cancel order'. If the order has already shipped, you can refuse delivery or start a return once it arrives."
+  },
+  {
+    "id": "orders-change-address",
+    "category": "orders",
+    "question": "Can I change the delivery address after placing an order?",
+    "variations": [
+      "edit shipping address",
+      "wrong address on my order",
+      "update delivery location",
+      "ship to a different address"
+    ],
+    "answer": "You can change the delivery address within 2 hours of placing the order from My Account > Orders > Edit address. After that, please contact support with your order number and we'll try to intercept the package."
+  },
+  {
+    "id": "returns-policy",
+    "category": "returns",
+    "question": "What is your return policy?",
+    "variations": [
+      "can I return an item",
+      "how many days do I have to return a product",
+      "return window",
+      "send something back"
+    ],
+    "answer": "Most items can be returned within 30 days of delivery if they are unused and in original packaging. Final-sale and personalised items are not eligible."
+  },
+  {
+    "id": "returns-how",
+    "category": "returns",
+    "question": "How do I start a return?",
+    "variations": [
+      "return a product step by step",
+      "generate return label",
+      "initiate a return",
+      "how to send back my purchase"
+    ],
+    "answer": "Open My Account > Orders, pick the item and choose 'Return item'. Print the prepaid label (or show the QR code at a drop-off point), pack the item, and hand it to the courier."
+  },
+  {
+    "id": "refunds-time",
+    "category": "returns",
+    "question": "How long does a refund take?",
+    "variations": [
+      "when will I get my money back",
+      "refund processing time",
+      "I have not received my refund",
+      "how many days for a refund to arrive"
+    ],
+    "answer": "Refunds are issued within 3 business days of us receiving your return. Depending on your bank, it can take another 5-7 business days to appear on your statement."
+  },
+  {
+    "id": "payments-methods",
+    "category": "payments",
+    "question": "Which payment methods do you accept?",
+    "variations": [
+      "can I pay with UPI",
+      "do you take credit cards",
+      "accepted payment options",
+      "cash on delivery available",
+      "net banking and wallets"
+    ],
+    "answer": "We accept credit and debit cards, UPI, net banking, popular wallets and cash on delivery (for orders under 10,000 INR)."
+  },
+  {
+    "id": "payments-failed",
+    "category": "payments",
+    "question": "My payment failed but money was deducted. What should I do?",
+    "variations": [
+      "payment declined money debited",
+      "charged twice",
+      "transaction failed amount deducted",
+      "double payment on my card"
+    ],
+    "answer": "Don't worry - failed transactions are auto-reversed by your bank within 5-7 business days. If the order did not get created and the amount is not returned after 7 days, share the transaction ID with support and we'll investigate."
+  },
+  {
+    "id": "account-reset-password",
+    "category": "account",
+    "question": "How do I reset my password?",
+    "variations": [
+      "forgot my password",
+      "can't log in to my account",
+      "change my password",
+      "password reset link not working"
+    ],
+    "answer": "Click 'Forgot password' on the login page, enter your registered email and follow the link we send (valid for 30 minutes). Check your spam folder if it doesn't arrive."
+  },
+  {
+    "id": "account-delete",
+    "category": "account",
+    "question": "How can I delete my account?",
+    "variations": [
+      "close my account",
+      "remove my personal data",
+      "deactivate profile",
+      "erase my information"
+    ],
+    "answer": "Go to Settings > Privacy > Delete account. Your data is permanently removed after a 14-day grace period, during which you can restore the account by logging in."
+  },
+  {
+    "id": "shipping-time",
+    "category": "shipping",
+    "question": "How long does delivery take?",
+    "variations": [
+      "shipping time",
+      "delivery estimate",
+      "how fast do you ship",
+      "when will it be delivered"
+    ],
+    "answer": "Standard delivery takes 3-7 business days and express delivery takes 1-2 business days in major cities. The exact estimate is shown at checkout."
+  },
+  {
+    "id": "shipping-cost",
+    "category": "shipping",
+    "question": "How much does shipping cost?",
+    "variations": [
+      "delivery charges",
+      "is shipping free",
+      "free delivery minimum order",
+      "shipping fee"
+    ],
+    "answer": "Shipping is free on orders above 499 INR. Below that, a flat fee of 49 INR applies for standard delivery; express delivery is 99 INR."
+  },
+  {
+    "id": "shipping-international",
+    "category": "shipping",
+    "question": "Do you ship internationally?",
+    "variations": [
+      "ship abroad",
+      "overseas delivery",
+      "deliver outside India",
+      "international shipping countries"
+    ],
+    "answer": "Yes, we ship to over 40 countries. International delivery typically takes 7-14 business days, and customs duties may apply at the destination."
+  },
+  {
+    "id": "support-hours",
+    "category": "support",
+    "question": "What are your customer support hours?",
+    "variations": [
+      "when are you open",
+      "support timings",
+      "contact customer care",
+      "phone number for support",
+      "email support address"
+    ],
+    "answer": "Our support team is available Monday to Saturday, 9 AM to 8 PM IST, via chat, phone (1800-000-000) and email (support@example.com)."
+  },
+  {
+    "id": "warranty",
+    "category": "products",
+    "question": "Do your products come with a warranty?",
+    "variations": [
+      "warranty period",
+      "product is defective",
+      "my item stopped working",
+      "claim warranty"
+    ],
+    "answer": "Electronics carry a 1-year manufacturer warranty and other products a 6-month warranty. To claim, open My Account > Orders > 'Warranty claim' and upload a photo of the issue and your invoice."
+  },
+  {
+    "id": "discount-codes",
+    "category": "payments",
+    "question": "How do I apply a discount code?",
+    "variations": [
+      "coupon code not working",
+      "promo code",
+      "where to enter voucher",
+      "redeem offer"
+    ],
+    "answer": "Enter your code in the 'Promo code' box on the cart page and click Apply. Codes can't be combined, and some are limited to specific categories or minimum order values."
+  }
+]
